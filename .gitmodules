@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gep2pep"]
-	path = gep2pep
-	url = https://git.bioconductor.org/packages/gep2pep
 [submodule "repo"]
 	path = repo
 	url = https://github.com/franapoli/repo
